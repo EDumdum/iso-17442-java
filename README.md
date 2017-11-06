@@ -14,7 +14,7 @@ Install using [maven](https://maven.apache.org/).
 Retrieve sources and install it into your maven repository using following commands:
 ```bash
 git clone git@github.com:EDumdum/iso-17442-java.git
-cd iso-7064-java
+cd iso-17422-java
 mvn clean install
 ```
 
